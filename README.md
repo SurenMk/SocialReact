@@ -1,4 +1,4 @@
-REMEMBER TO START SERVER npx json-server --watch public/db.json --port=3001"
+REMEMBER TO START SERVER npx json-server --watch public/db.json --port=3001
 
 # Getting Started with Create React App
 
